@@ -31,6 +31,6 @@ This dataset can be utilized to explore the relationship between demographic/loc
 
 https://www.kaggle.com/datasets/sudarshan24byte/online-food-datase
 
-готовый проект находится в 
+готовый проект находится в Online_food_project_DorofeevaVI.knwf
 
 Ссылка на  https://datalens.yandex/yjs4kkxdah5yj
